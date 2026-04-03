@@ -1,0 +1,9 @@
+fast_filter_v2
+mmap_counter
+axiom_filter
+error_filter
+*.out
+data.txt
+generate_logs.py
+filtered_errors.txt
+multi_filtered_results.txt

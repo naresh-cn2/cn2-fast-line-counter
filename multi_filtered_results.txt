@@ -1,3 +1,0 @@
-2023-10-27 10:05:00 [ERROR] Critical System Failure detected
-2023-10-27 [WARNING] Disk near capacity
-2023-10-27 [CRITICAL] Database connection lost
